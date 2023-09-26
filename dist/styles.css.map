@@ -1,0 +1,1 @@
+{"version":3,"file":"styles.css","mappings":"AAAA;EACE,cAAc;AAChB;;AAEA;EACE,UAAU;AACZ,C","sources":["webpack://react-project-no-cra/./src/styles/app.css"],"sourcesContent":["body {\r\n  color: #ff2778;\r\n}\r\n\r\nh1 {\r\n  color: red;\r\n}"],"names":[],"sourceRoot":""}
